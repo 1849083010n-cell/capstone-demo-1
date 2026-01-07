@@ -1,0 +1,8 @@
+{
+  "name": "HikePal",
+  "description": "A comprehensive hiking companion app for Hong Kong, featuring route planning, AI-powered assistance with real-time location grounding, and social team tracking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
